@@ -2641,9 +2641,6 @@
 		<display-name lang="zh">C</display-name>
 	</channel>
 	<channel id="C">
-		<display-name lang="zh">CDTV8</display-name>
-	</channel>
-	<channel id="C">
 		<display-name lang="zh">Channel[V]</display-name>
 	</channel>
 	<programme channel="C" start="20260224060000 +0800" stop="20260224063000 +0800">
@@ -34385,6 +34382,732 @@
 	</programme>
 	<programme channel="CHC影迷电影" start="20260303235900 +0800" stop="20260304000000 +0800">
 		<title lang="zh">我们永不言弃</title>
+	</programme>
+	<channel id="DTV">
+		<display-name lang="zh">DTV</display-name>
+	</channel>
+	<channel id="DTV">
+		<display-name lang="zh">CDTV8</display-name>
+	</channel>
+	<programme channel="DTV" start="20260224060000 +0800" stop="20260224062500 +0800">
+		<title lang="zh">下一站(卫视文件化)(206)麋田鹿归</title>
+	</programme>
+	<programme channel="DTV" start="20260224062500 +0800" stop="20260224062900 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(11)—厚趠方鼎</title>
+	</programme>
+	<programme channel="DTV" start="20260224062900 +0800" stop="20260224063500 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(22)清代伊犁将军银印</title>
+	</programme>
+	<programme channel="DTV" start="20260224063500 +0800" stop="20260224070000 +0800">
+		<title lang="zh">寻味(261)“烟火团圆味第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260224070000 +0800" stop="20260224090000 +0800">
+		<title lang="zh">看东方</title>
+	</programme>
+	<programme channel="DTV" start="20260224090000 +0800" stop="20260224095900 +0800">
+		<title lang="zh">一路前行精编(9)行动</title>
+	</programme>
+	<programme channel="DTV" start="20260224095900 +0800" stop="20260224113800 +0800">
+		<title lang="zh">爱乐之都第二季青春季第六期</title>
+	</programme>
+	<programme channel="DTV" start="20260224113800 +0800" stop="20260224115300 +0800">
+		<title lang="zh">探秘中国民居之美—山西王家大院</title>
+	</programme>
+	<programme channel="DTV" start="20260224115300 +0800" stop="20260224115900 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(12)白釉宫殿人物枕</title>
+	</programme>
+	<programme channel="DTV" start="20260224115900 +0800" stop="20260224120000 +0800">
+		<title lang="zh">频道焕新ID(温室花园)</title>
+	</programme>
+	<programme channel="DTV" start="20260224120000 +0800" stop="20260224122700 +0800">
+		<title lang="zh">午间30分</title>
+	</programme>
+	<programme channel="DTV" start="20260224122700 +0800" stop="20260224132000 +0800">
+		<title lang="zh">未来中国第二季(1)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260224132000 +0800" stop="20260224141200 +0800">
+		<title lang="zh">未来中国第二季(2)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260224141200 +0800" stop="20260224143700 +0800">
+		<title lang="zh">下一站(卫视文件化)(167) 一手艺·一念想</title>
+	</programme>
+	<programme channel="DTV" start="20260224143700 +0800" stop="20260224153600 +0800">
+		<title lang="zh">一路前行精编(9)行动</title>
+	</programme>
+	<programme channel="DTV" start="20260224153600 +0800" stop="20260224171500 +0800">
+		<title lang="zh">爱乐之都第二季青春季第六期</title>
+	</programme>
+	<programme channel="DTV" start="20260224171500 +0800" stop="20260224172100 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(12)白釉宫殿人物枕</title>
+	</programme>
+	<programme channel="DTV" start="20260224172100 +0800" stop="20260224173400 +0800">
+		<title lang="zh">探秘中国民居之美—云南腾冲侨乡民居</title>
+	</programme>
+	<programme channel="DTV" start="20260224173400 +0800" stop="20260224175900 +0800">
+		<title lang="zh">寻味(261)“烟火团圆味第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260224175900 +0800" stop="20260224180000 +0800">
+		<title lang="zh">频道焕新ID(陆家嘴光影秀)</title>
+	</programme>
+	<programme channel="DTV" start="20260224180000 +0800" stop="20260224185800 +0800">
+		<title lang="zh">东方新闻</title>
+	</programme>
+	<programme channel="DTV" start="20260224185800 +0800" stop="20260224191000 +0800">
+		<title lang="zh">探秘中国民居之美—四川罗城船型古镇</title>
+	</programme>
+	<programme channel="DTV" start="20260224191000 +0800" stop="20260224193500 +0800">
+		<title lang="zh">下一站(卫视文件化)(203)老电波,新磁场</title>
+	</programme>
+	<programme channel="DTV" start="20260224193500 +0800" stop="20260224200000 +0800">
+		<title lang="zh">下一站(卫视文件化)(167) 一手艺·一念想</title>
+	</programme>
+	<programme channel="DTV" start="20260224200000 +0800" stop="20260224205900 +0800">
+		<title lang="zh">一路前行精编(9)行动</title>
+	</programme>
+	<programme channel="DTV" start="20260224205900 +0800" stop="20260224215200 +0800">
+		<title lang="zh">未来中国第二季(1)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260224215200 +0800" stop="20260224224400 +0800">
+		<title lang="zh">未来中国第二季(2)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260224224400 +0800" stop="20260224230900 +0800">
+		<title lang="zh">寻味(261)“烟火团圆味第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260224230900 +0800" stop="20260225000000 +0800">
+		<title lang="zh">爱乐之都第二季青春季第六期</title>
+	</programme>
+	<programme channel="DTV" start="20260225060000 +0800" stop="20260225063000 +0800">
+		<title lang="zh">何以中国(6)</title>
+	</programme>
+	<programme channel="DTV" start="20260225063000 +0800" stop="20260225063500 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(20)彩色釉陶托鹦鹉女俑</title>
+	</programme>
+	<programme channel="DTV" start="20260225063500 +0800" stop="20260225070000 +0800">
+		<title lang="zh">下一站(卫视文件化)(167) 一手艺·一念想</title>
+	</programme>
+	<programme channel="DTV" start="20260225070000 +0800" stop="20260225090000 +0800">
+		<title lang="zh">看东方</title>
+	</programme>
+	<programme channel="DTV" start="20260225090000 +0800" stop="20260225095200 +0800">
+		<title lang="zh">一路前行精编(10)星火</title>
+	</programme>
+	<programme channel="DTV" start="20260225095200 +0800" stop="20260225110800 +0800">
+		<title lang="zh">因Ai相约(12)</title>
+	</programme>
+	<programme channel="DTV" start="20260225110800 +0800" stop="20260225110900 +0800">
+		<title lang="zh">形象片:上海,灵感之城</title>
+	</programme>
+	<programme channel="DTV" start="20260225110900 +0800" stop="20260225113400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-24)</title>
+	</programme>
+	<programme channel="DTV" start="20260225113400 +0800" stop="20260225115900 +0800">
+		<title lang="zh">名医话养生(75)</title>
+	</programme>
+	<programme channel="DTV" start="20260225115900 +0800" stop="20260225120000 +0800">
+		<title lang="zh">频道焕新ID(温室花园)</title>
+	</programme>
+	<programme channel="DTV" start="20260225120000 +0800" stop="20260225122700 +0800">
+		<title lang="zh">午间30分</title>
+	</programme>
+	<programme channel="DTV" start="20260225122700 +0800" stop="20260225131900 +0800">
+		<title lang="zh">未来中国第二季(2)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260225131900 +0800" stop="20260225141300 +0800">
+		<title lang="zh">未来中国第二季(3)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260225141300 +0800" stop="20260225153300 +0800">
+		<title lang="zh">梦想改造家精编24(原第八季第7期酒香深处的家)</title>
+	</programme>
+	<programme channel="DTV" start="20260225153300 +0800" stop="20260225164900 +0800">
+		<title lang="zh">因Ai相约(12)</title>
+	</programme>
+	<programme channel="DTV" start="20260225164900 +0800" stop="20260225170400 +0800">
+		<title lang="zh">探秘中国民居之美—山西王家大院</title>
+	</programme>
+	<programme channel="DTV" start="20260225170400 +0800" stop="20260225170900 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(10)闸口盘车图</title>
+	</programme>
+	<programme channel="DTV" start="20260225170900 +0800" stop="20260225173400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-24)</title>
+	</programme>
+	<programme channel="DTV" start="20260225173400 +0800" stop="20260225175900 +0800">
+		<title lang="zh">名医话养生(75)</title>
+	</programme>
+	<programme channel="DTV" start="20260225175900 +0800" stop="20260225180000 +0800">
+		<title lang="zh">频道焕新ID(陆家嘴光影秀)</title>
+	</programme>
+	<programme channel="DTV" start="20260225180000 +0800" stop="20260225185800 +0800">
+		<title lang="zh">东方新闻</title>
+	</programme>
+	<programme channel="DTV" start="20260225185800 +0800" stop="20260225201800 +0800">
+		<title lang="zh">梦想改造家精编24(原第八季第7期酒香深处的家)</title>
+	</programme>
+	<programme channel="DTV" start="20260225201800 +0800" stop="20260225211000 +0800">
+		<title lang="zh">一路前行精编(10)星火</title>
+	</programme>
+	<programme channel="DTV" start="20260225211000 +0800" stop="20260225220200 +0800">
+		<title lang="zh">未来中国第二季(2)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260225220200 +0800" stop="20260225225600 +0800">
+		<title lang="zh">未来中国第二季(3)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260225225600 +0800" stop="20260225232100 +0800">
+		<title lang="zh">东方新娱乐(2026-02-24)</title>
+	</programme>
+	<programme channel="DTV" start="20260225232100 +0800" stop="20260225234600 +0800">
+		<title lang="zh">名医话养生(75)</title>
+	</programme>
+	<programme channel="DTV" start="20260225234600 +0800" stop="20260226000000 +0800">
+		<title lang="zh">因Ai相约(12)</title>
+	</programme>
+	<programme channel="DTV" start="20260226060000 +0800" stop="20260226060500 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(10)—元丹山纪行图卷</title>
+	</programme>
+	<programme channel="DTV" start="20260226060500 +0800" stop="20260226061000 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(20)彩色釉陶托鹦鹉女俑</title>
+	</programme>
+	<programme channel="DTV" start="20260226061000 +0800" stop="20260226063500 +0800">
+		<title lang="zh">东方新娱乐(2026-02-24)</title>
+	</programme>
+	<programme channel="DTV" start="20260226063500 +0800" stop="20260226070000 +0800">
+		<title lang="zh">名医话养生(75)</title>
+	</programme>
+	<programme channel="DTV" start="20260226070000 +0800" stop="20260226090000 +0800">
+		<title lang="zh">看东方</title>
+	</programme>
+	<programme channel="DTV" start="20260226090000 +0800" stop="20260226094800 +0800">
+		<title lang="zh">一路前行第二季第一期</title>
+	</programme>
+	<programme channel="DTV" start="20260226094800 +0800" stop="20260226101800 +0800">
+		<title lang="zh">加油!小店-人间烟火季(5)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226101800 +0800" stop="20260226104900 +0800">
+		<title lang="zh">加油!小店-人间烟火季(6)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226104900 +0800" stop="20260226110400 +0800">
+		<title lang="zh">探秘中国民居之美—山西王家大院</title>
+	</programme>
+	<programme channel="DTV" start="20260226110400 +0800" stop="20260226110900 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(21)—弘一法师遗墨</title>
+	</programme>
+	<programme channel="DTV" start="20260226110900 +0800" stop="20260226113400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-25)</title>
+	</programme>
+	<programme channel="DTV" start="20260226113400 +0800" stop="20260226120000 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260226120000 +0800" stop="20260226122700 +0800">
+		<title lang="zh">午间30分</title>
+	</programme>
+	<programme channel="DTV" start="20260226122700 +0800" stop="20260226132100 +0800">
+		<title lang="zh">未来中国第二季(3)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226132100 +0800" stop="20260226141400 +0800">
+		<title lang="zh">未来中国第二季(4)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226141400 +0800" stop="20260226143900 +0800">
+		<title lang="zh">寻味(261)「烟火团圆味」第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260226143900 +0800" stop="20260226150400 +0800">
+		<title lang="zh">爱上海(56):2026豫园灯会打卡全攻略</title>
+	</programme>
+	<programme channel="DTV" start="20260226150400 +0800" stop="20260226153400 +0800">
+		<title lang="zh">加油!小店-人间烟火季(5)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226153400 +0800" stop="20260226160400 +0800">
+		<title lang="zh">加油!小店-人间烟火季(6)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226160400 +0800" stop="20260226163600 +0800">
+		<title lang="zh">加油!小店-人间烟火季(7)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226163600 +0800" stop="20260226164100 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(23)银锭</title>
+	</programme>
+	<programme channel="DTV" start="20260226164100 +0800" stop="20260226165600 +0800">
+		<title lang="zh">探秘中国民居之美—山西王家大院</title>
+	</programme>
+	<programme channel="DTV" start="20260226165600 +0800" stop="20260226170900 +0800">
+		<title lang="zh">探秘中国民居之美—贵州苗寨</title>
+	</programme>
+	<programme channel="DTV" start="20260226170900 +0800" stop="20260226173400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-25)</title>
+	</programme>
+	<programme channel="DTV" start="20260226173400 +0800" stop="20260226180000 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260226180000 +0800" stop="20260226185800 +0800">
+		<title lang="zh">东方新闻</title>
+	</programme>
+	<programme channel="DTV" start="20260226185800 +0800" stop="20260226192300 +0800">
+		<title lang="zh">寻味(260)「烟火团圆味」第一集 水乡声韵·年味绵长</title>
+	</programme>
+	<programme channel="DTV" start="20260226192300 +0800" stop="20260226194800 +0800">
+		<title lang="zh">寻味(261)「烟火团圆味」第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260226194800 +0800" stop="20260226201300 +0800">
+		<title lang="zh">爱上海(56):2026豫园灯会打卡全攻略</title>
+	</programme>
+	<programme channel="DTV" start="20260226201300 +0800" stop="20260226210200 +0800">
+		<title lang="zh">一路前行第二季第一期</title>
+	</programme>
+	<programme channel="DTV" start="20260226210200 +0800" stop="20260226215600 +0800">
+		<title lang="zh">未来中国第二季(3)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226215600 +0800" stop="20260226224900 +0800">
+		<title lang="zh">未来中国第二季(4)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260226224900 +0800" stop="20260226231400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-25)</title>
+	</programme>
+	<programme channel="DTV" start="20260226231400 +0800" stop="20260226233900 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260226233900 +0800" stop="20260227000000 +0800">
+		<title lang="zh">加油!小店-人间烟火季(5)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260227060000 +0800" stop="20260227060400 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(13)—《莲塘乳鸭图》</title>
+	</programme>
+	<programme channel="DTV" start="20260227060400 +0800" stop="20260227061000 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(23)银锭</title>
+	</programme>
+	<programme channel="DTV" start="20260227061000 +0800" stop="20260227063500 +0800">
+		<title lang="zh">东方新娱乐(2026-02-25)</title>
+	</programme>
+	<programme channel="DTV" start="20260227063500 +0800" stop="20260227070000 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260227070000 +0800" stop="20260227090000 +0800">
+		<title lang="zh">看东方</title>
+	</programme>
+	<programme channel="DTV" start="20260227090000 +0800" stop="20260227094400 +0800">
+		<title lang="zh">一路前行第二季第二期</title>
+	</programme>
+	<programme channel="DTV" start="20260227094400 +0800" stop="20260227112000 +0800">
+		<title lang="zh">极限挑战宝藏行-和美乡村季(5)</title>
+	</programme>
+	<programme channel="DTV" start="20260227112000 +0800" stop="20260227113400 +0800">
+		<title lang="zh">探秘中国民居之美—河南地坑院</title>
+	</programme>
+	<programme channel="DTV" start="20260227113400 +0800" stop="20260227120000 +0800">
+		<title lang="zh">东方新娱乐(2026-02-26)</title>
+	</programme>
+	<programme channel="DTV" start="20260227120000 +0800" stop="20260227122700 +0800">
+		<title lang="zh">午间30分</title>
+	</programme>
+	<programme channel="DTV" start="20260227122700 +0800" stop="20260227132000 +0800">
+		<title lang="zh">未来中国第二季(4)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260227132000 +0800" stop="20260227141100 +0800">
+		<title lang="zh">未来中国第二季(5)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260227141100 +0800" stop="20260227144100 +0800">
+		<title lang="zh">家国万里(3)国际版</title>
+	</programme>
+	<programme channel="DTV" start="20260227144100 +0800" stop="20260227151100 +0800">
+		<title lang="zh">家国万里(4)国际版</title>
+	</programme>
+	<programme channel="DTV" start="20260227151100 +0800" stop="20260227164600 +0800">
+		<title lang="zh">极限挑战宝藏行-和美乡村季(5)</title>
+	</programme>
+	<programme channel="DTV" start="20260227164600 +0800" stop="20260227171100 +0800">
+		<title lang="zh">寻味(261)「烟火团圆味」第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260227171100 +0800" stop="20260227172600 +0800">
+		<title lang="zh">探秘中国民居之美—河南地坑院</title>
+	</programme>
+	<programme channel="DTV" start="20260227172600 +0800" stop="20260227173000 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(8)黄花梨圆后背交椅</title>
+	</programme>
+	<programme channel="DTV" start="20260227173000 +0800" stop="20260227173400 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(13)望贤迎驾图</title>
+	</programme>
+	<programme channel="DTV" start="20260227173400 +0800" stop="20260227180000 +0800">
+		<title lang="zh">东方新娱乐(2026-02-26)</title>
+	</programme>
+	<programme channel="DTV" start="20260227180000 +0800" stop="20260227185800 +0800">
+		<title lang="zh">东方新闻</title>
+	</programme>
+	<programme channel="DTV" start="20260227185800 +0800" stop="20260227192700 +0800">
+		<title lang="zh">家国万里(3)国际版</title>
+	</programme>
+	<programme channel="DTV" start="20260227192700 +0800" stop="20260227195700 +0800">
+		<title lang="zh">家国万里(4)国际版</title>
+	</programme>
+	<programme channel="DTV" start="20260227195700 +0800" stop="20260227204100 +0800">
+		<title lang="zh">一路前行第二季第二期</title>
+	</programme>
+	<programme channel="DTV" start="20260227204100 +0800" stop="20260227213400 +0800">
+		<title lang="zh">未来中国第二季(4)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260227213400 +0800" stop="20260227222600 +0800">
+		<title lang="zh">未来中国第二季(5)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260227222600 +0800" stop="20260227225100 +0800">
+		<title lang="zh">东方新娱乐(2026-02-26)</title>
+	</programme>
+	<programme channel="DTV" start="20260227225100 +0800" stop="20260227231600 +0800">
+		<title lang="zh">名医话养生(80)</title>
+	</programme>
+	<programme channel="DTV" start="20260227231600 +0800" stop="20260228000000 +0800">
+		<title lang="zh">极限挑战宝藏行-和美乡村季(5)</title>
+	</programme>
+	<programme channel="DTV" start="20260228060000 +0800" stop="20260228060300 +0800">
+		<title lang="zh">探秘中国民居之美—苏式园林民居</title>
+	</programme>
+	<programme channel="DTV" start="20260228060300 +0800" stop="20260228061000 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(18)淳化阁帖</title>
+	</programme>
+	<programme channel="DTV" start="20260228061000 +0800" stop="20260228063500 +0800">
+		<title lang="zh">东方新娱乐(2026-02-26)</title>
+	</programme>
+	<programme channel="DTV" start="20260228063500 +0800" stop="20260228070000 +0800">
+		<title lang="zh">名医话养生(80)</title>
+	</programme>
+	<programme channel="DTV" start="20260228070000 +0800" stop="20260228090000 +0800">
+		<title lang="zh">看东方</title>
+	</programme>
+	<programme channel="DTV" start="20260228090000 +0800" stop="20260228094500 +0800">
+		<title lang="zh">一路前行第二季第三期</title>
+	</programme>
+	<programme channel="DTV" start="20260228094500 +0800" stop="20260228104500 +0800">
+		<title lang="zh">妈妈咪呀第九季(7)</title>
+	</programme>
+	<programme channel="DTV" start="20260228104500 +0800" stop="20260228111000 +0800">
+		<title lang="zh">名医话养生(80)</title>
+	</programme>
+	<programme channel="DTV" start="20260228111000 +0800" stop="20260228113500 +0800">
+		<title lang="zh">下一站(卫视文件化)(206)麋田鹿归</title>
+	</programme>
+	<programme channel="DTV" start="20260228113500 +0800" stop="20260228114700 +0800">
+		<title lang="zh">探秘中国民居之美—苏式园林民居</title>
+	</programme>
+	<programme channel="DTV" start="20260228114700 +0800" stop="20260228120200 +0800">
+		<title lang="zh">探秘中国民居之美—福建土楼</title>
+	</programme>
+	<programme channel="DTV" start="20260228120200 +0800" stop="20260228122900 +0800">
+		<title lang="zh">中国考古报导(98)</title>
+	</programme>
+	<programme channel="DTV" start="20260228122900 +0800" stop="20260228130900 +0800">
+		<title lang="zh">双城记831两岸主播逛香港(上)</title>
+	</programme>
+	<programme channel="DTV" start="20260228130900 +0800" stop="20260228140300 +0800">
+		<title lang="zh">未来中国第二季(6)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260228140300 +0800" stop="20260228144900 +0800">
+		<title lang="zh">一路前行第二季第三期</title>
+	</programme>
+	<programme channel="DTV" start="20260228144900 +0800" stop="20260228145400 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(7)—西周大克鼎</title>
+	</programme>
+	<programme channel="DTV" start="20260228145400 +0800" stop="20260228161000 +0800">
+		<title lang="zh">因Ai相约(12)</title>
+	</programme>
+	<programme channel="DTV" start="20260228161000 +0800" stop="20260228170900 +0800">
+		<title lang="zh">妈妈咪呀第九季(7)</title>
+	</programme>
+	<programme channel="DTV" start="20260228170900 +0800" stop="20260228173400 +0800">
+		<title lang="zh">下一站(卫视文件化)(206)麋田鹿归</title>
+	</programme>
+	<programme channel="DTV" start="20260228173400 +0800" stop="20260228180000 +0800">
+		<title lang="zh">名医话养生(80)</title>
+	</programme>
+	<programme channel="DTV" start="20260228180000 +0800" stop="20260228185800 +0800">
+		<title lang="zh">东方新闻</title>
+	</programme>
+	<programme channel="DTV" start="20260228185800 +0800" stop="20260228194200 +0800">
+		<title lang="zh">一路前行第二季第二期</title>
+	</programme>
+	<programme channel="DTV" start="20260228194200 +0800" stop="20260228202800 +0800">
+		<title lang="zh">一路前行第二季第三期</title>
+	</programme>
+	<programme channel="DTV" start="20260228202800 +0800" stop="20260228212200 +0800">
+		<title lang="zh">未来中国第二季(6)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260228212200 +0800" stop="20260228215300 +0800">
+		<title lang="zh">加油!小店-人间烟火季(6)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260228215300 +0800" stop="20260228220700 +0800">
+		<title lang="zh">探秘中国民居之美—福建土楼</title>
+	</programme>
+	<programme channel="DTV" start="20260228220700 +0800" stop="20260228221100 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(15)—京口送别图</title>
+	</programme>
+	<programme channel="DTV" start="20260228221100 +0800" stop="20260228232700 +0800">
+		<title lang="zh">因Ai相约(12)</title>
+	</programme>
+	<programme channel="DTV" start="20260228232700 +0800" stop="20260301000000 +0800">
+		<title lang="zh">一路前行第二季第二期</title>
+	</programme>
+	<programme channel="DTV" start="20260301060000 +0800" stop="20260301062000 +0800">
+		<title lang="zh">中国考古报导(98)</title>
+	</programme>
+	<programme channel="DTV" start="20260301062000 +0800" stop="20260301070000 +0800">
+		<title lang="zh">双城记831两岸主播逛香港(上)</title>
+	</programme>
+	<programme channel="DTV" start="20260301070000 +0800" stop="20260301073000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301073000 +0800" stop="20260301080000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301080000 +0800" stop="20260301081000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301081000 +0800" stop="20260301085000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301085000 +0800" stop="20260301092000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301092000 +0800" stop="20260301095000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301095000 +0800" stop="20260301102000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301102000 +0800" stop="20260301105200 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301105200 +0800" stop="20260301113700 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301113700 +0800" stop="20260301122200 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301122200 +0800" stop="20260301124900 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301124900 +0800" stop="20260301125100 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301125100 +0800" stop="20260301134800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301134800 +0800" stop="20260301143000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301143000 +0800" stop="20260301150000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301150000 +0800" stop="20260301154500 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301154500 +0800" stop="20260301154800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301154800 +0800" stop="20260301171500 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301171500 +0800" stop="20260301180000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301180000 +0800" stop="20260301185800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301185800 +0800" stop="20260301204800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301204800 +0800" stop="20260301222200 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301222200 +0800" stop="20260301231500 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260301231500 +0800" stop="20260302000000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260302060000 +0800" stop="20260302061000 +0800">
+		<title lang="zh">家国万里(4)国际版</title>
+	</programme>
+	<programme channel="DTV" start="20260302061000 +0800" stop="20260302063500 +0800">
+		<title lang="zh">下一站(卫视文件化)(206)麋田鹿归</title>
+	</programme>
+	<programme channel="DTV" start="20260302063500 +0800" stop="20260302070000 +0800">
+		<title lang="zh">名医话养生(80)</title>
+	</programme>
+	<programme channel="DTV" start="20260302070000 +0800" stop="20260302090000 +0800">
+		<title lang="zh">看东方</title>
+	</programme>
+	<programme channel="DTV" start="20260302090000 +0800" stop="20260302095900 +0800">
+		<title lang="zh">一路前行第二季第五期</title>
+	</programme>
+	<programme channel="DTV" start="20260302095900 +0800" stop="20260302105400 +0800">
+		<title lang="zh">今晚不加班(9)</title>
+	</programme>
+	<programme channel="DTV" start="20260302105400 +0800" stop="20260302105900 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博(3)—明代犀角杯</title>
+	</programme>
+	<programme channel="DTV" start="20260302105900 +0800" stop="20260302110500 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(12)白釉宫殿人物枕</title>
+	</programme>
+	<programme channel="DTV" start="20260302110500 +0800" stop="20260302110900 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(13)望贤迎驾图</title>
+	</programme>
+	<programme channel="DTV" start="20260302110900 +0800" stop="20260302113400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-27)</title>
+	</programme>
+	<programme channel="DTV" start="20260302113400 +0800" stop="20260302120000 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260302120000 +0800" stop="20260302122700 +0800">
+		<title lang="zh">午间30分</title>
+	</programme>
+	<programme channel="DTV" start="20260302122700 +0800" stop="20260302132100 +0800">
+		<title lang="zh">未来中国第二季(7)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260302132100 +0800" stop="20260302141300 +0800">
+		<title lang="zh">未来中国第二季(8)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260302141300 +0800" stop="20260302151300 +0800">
+		<title lang="zh">一路前行第二季第五期</title>
+	</programme>
+	<programme channel="DTV" start="20260302151300 +0800" stop="20260302160800 +0800">
+		<title lang="zh">今晚不加班(9)</title>
+	</programme>
+	<programme channel="DTV" start="20260302160800 +0800" stop="20260302163300 +0800">
+		<title lang="zh">寻味(261)「烟火团圆味」第二集 中阿年味 跨国新春</title>
+	</programme>
+	<programme channel="DTV" start="20260302163300 +0800" stop="20260302165800 +0800">
+		<title lang="zh">寻味(262)「烟火团圆味」第三集 潮聚申城 食暖团圆</title>
+	</programme>
+	<programme channel="DTV" start="20260302165800 +0800" stop="20260302170900 +0800">
+		<title lang="zh">探秘中国民居之美—四川罗城船型古镇</title>
+	</programme>
+	<programme channel="DTV" start="20260302170900 +0800" stop="20260302173400 +0800">
+		<title lang="zh">东方新娱乐(2026-02-27)</title>
+	</programme>
+	<programme channel="DTV" start="20260302173400 +0800" stop="20260302180000 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260302180000 +0800" stop="20260302185800 +0800">
+		<title lang="zh">东方新闻</title>
+	</programme>
+	<programme channel="DTV" start="20260302185800 +0800" stop="20260302195000 +0800">
+		<title lang="zh">未来中国第二季(8)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260302195000 +0800" stop="20260302205000 +0800">
+		<title lang="zh">一路前行第二季第五期</title>
+	</programme>
+	<programme channel="DTV" start="20260302205000 +0800" stop="20260302214400 +0800">
+		<title lang="zh">未来中国第二季(7)精编</title>
+	</programme>
+	<programme channel="DTV" start="20260302214400 +0800" stop="20260302215000 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(12)白釉宫殿人物枕</title>
+	</programme>
+	<programme channel="DTV" start="20260302215000 +0800" stop="20260302215600 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(3)浮玉山居图</title>
+	</programme>
+	<programme channel="DTV" start="20260302215600 +0800" stop="20260302222100 +0800">
+		<title lang="zh">东方新娱乐(2026-02-27)</title>
+	</programme>
+	<programme channel="DTV" start="20260302222100 +0800" stop="20260302224600 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260302224600 +0800" stop="20260302233900 +0800">
+		<title lang="zh">今晚不加班(8)</title>
+	</programme>
+	<programme channel="DTV" start="20260302233900 +0800" stop="20260303003500 +0800">
+		<title lang="zh">今晚不加班(9)</title>
+	</programme>
+	<programme channel="DTV" start="20260303003500 +0800" stop="20260303010000 +0800">
+		<title lang="zh">寻味(262)「烟火团圆味」第三集 潮聚申城 食暖团圆</title>
+	</programme>
+	<programme channel="DTV" start="20260303010000 +0800" stop="20260303015800 +0800">
+		<title lang="zh">东方新闻(2026-03-02)</title>
+	</programme>
+	<programme channel="DTV" start="20260303015800 +0800" stop="20260303020000 +0800">
+		<title lang="zh">形象片:上海,灵感之城</title>
+	</programme>
+	<programme channel="DTV" start="20260303020000 +0800" stop="20260303055800 +0800">
+		<title lang="zh">电视播控中心播出结束</title>
+	</programme>
+	<programme channel="DTV" start="20260303055800 +0800" stop="20260303060000 +0800">
+		<title lang="zh">电视播控中心播出开始</title>
+	</programme>
+	<programme channel="DTV" start="20260303060000 +0800" stop="20260303062500 +0800">
+		<title lang="zh">东方新娱乐(2026-02-27)</title>
+	</programme>
+	<programme channel="DTV" start="20260303062500 +0800" stop="20260303063000 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(15)良渚文化玉琮</title>
+	</programme>
+	<programme channel="DTV" start="20260303063000 +0800" stop="20260303063500 +0800">
+		<title lang="zh">(新)了不起的宝藏·探宝上博 第二季(13)望贤迎驾图</title>
+	</programme>
+	<programme channel="DTV" start="20260303063500 +0800" stop="20260303070000 +0800">
+		<title lang="zh">名医话养生(79)</title>
+	</programme>
+	<programme channel="DTV" start="20260303070000 +0800" stop="20260303073000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303073000 +0800" stop="20260303080000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303080000 +0800" stop="20260303081000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303081000 +0800" stop="20260303085000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303085000 +0800" stop="20260303092000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303092000 +0800" stop="20260303095000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303095000 +0800" stop="20260303102000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303102000 +0800" stop="20260303105200 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303105200 +0800" stop="20260303113700 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303113700 +0800" stop="20260303122200 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303122200 +0800" stop="20260303124900 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303124900 +0800" stop="20260303125100 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303125100 +0800" stop="20260303134800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303134800 +0800" stop="20260303143000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303143000 +0800" stop="20260303150000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303150000 +0800" stop="20260303154500 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303154500 +0800" stop="20260303154800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303154800 +0800" stop="20260303171500 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303171500 +0800" stop="20260303180000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303180000 +0800" stop="20260303185800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303185800 +0800" stop="20260303204800 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303204800 +0800" stop="20260303222200 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303222200 +0800" stop="20260303231500 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20260303231500 +0800" stop="20260304000000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
 	</programme>
 	<channel id="SCTV2">
 		<display-name lang="zh">SCTV2</display-name>
