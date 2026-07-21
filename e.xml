@@ -17688,6 +17688,18 @@
 	<programme channel="咪咕综合体育" start="20260721181000 +0800" stop="20260721190000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260721190000 +0800" stop="20260721190500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260721191500 +0800" stop="20260721193500 +0800">
+		<title lang="zh">超级主队b7卫冕征途第二集</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260721193500 +0800" stop="20260721194000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260721194500 +0800" stop="20260721220500 +0800">
+		<title lang="zh">足球世界-2026中国足协杯 第5轮 云南玉昆-成都蓉城 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17765,6 +17777,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260721170000 +0800" stop="20260721183500 +0800">
 		<title lang="zh">2026国际篮联U17女篮世界杯 1/8决赛 拉脱维亚U17女篮-中国U17女篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260721184500 +0800" stop="20260721190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260721192000 +0800" stop="20260721193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260721193000 +0800" stop="20260721203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260721203500 +0800" stop="20260721221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G1 上海玄鸟-合肥狂风</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -25609,7 +25633,7 @@
 		<title lang="zh">新闻·观见</title>
 	</programme>
 	<programme channel="广西国际" start="20260721170000 +0800" stop="20260721183000 +0800">
-		<title lang="zh">经典剧场：40集：欢乐家族群 1-2</title>
+		<title lang="zh">经典剧场：40集：欢乐家长群 1-2</title>
 	</programme>
 	<programme channel="广西国际" start="20260721183000 +0800" stop="20260721205500 +0800">
 		<title lang="zh">时光剧场：40集：大山的女儿 18-20</title>
@@ -59097,6 +59121,15 @@
 	<programme channel="newtv超级综艺" start="20260721171400 +0800" stop="20260721183100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260721183100 +0800" stop="20260721194800 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260721194800 +0800" stop="20260721210500 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260721210500 +0800" stop="20260721225100 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59151,6 +59184,15 @@
 	<programme channel="newtv超级体育" start="20260721180000 +0800" stop="20260721183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260721183000 +0800" stop="20260721193000 +0800">
+		<title lang="zh">实况录像-WTT美国大满贯2026 比赛1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260721193000 +0800" stop="20260721213000 +0800">
+		<title lang="zh">2026中国足协杯-1/8决赛(上海申花-青岛海牛)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260721213000 +0800" stop="20260721223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59189,6 +59231,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260721171100 +0800" stop="20260721184600 +0800">
 		<title lang="zh">特殊身份</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260721184600 +0800" stop="20260721201000 +0800">
+		<title lang="zh">巨兽来袭3</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260721201000 +0800" stop="20260721220600 +0800">
+		<title lang="zh">西虹市首富</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59264,6 +59312,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260721180500 +0800" stop="20260721184600 +0800">
 		<title lang="zh">14_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721184600 +0800" stop="20260721192800 +0800">
+		<title lang="zh">15_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721192800 +0800" stop="20260721200900 +0800">
+		<title lang="zh">03_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721200900 +0800" stop="20260721205100 +0800">
+		<title lang="zh">04_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721205100 +0800" stop="20260721213200 +0800">
+		<title lang="zh">05_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260721213200 +0800" stop="20260721221800 +0800">
+		<title lang="zh">25_亲爱的你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59894,6 +59957,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260721174700 +0800" stop="20260721182200 +0800">
 		<title lang="zh">RINEWANN经典蚝式钻石机械腕表-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721182200 +0800" stop="20260721190700 +0800">
+		<title lang="zh">29_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721190700 +0800" stop="20260721194200 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721194200 +0800" stop="20260721202800 +0800">
+		<title lang="zh">30_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721202800 +0800" stop="20260721210800 +0800">
+		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721210800 +0800" stop="20260721215400 +0800">
+		<title lang="zh">31_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260721215400 +0800" stop="20260721223900 +0800">
+		<title lang="zh">32_勇敢的心2</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
